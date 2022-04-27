@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LosKeeper
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C, C++, Java ...
+- 🌱 I’m currently learning C, C++, Java, Python ...
 
 <!---
 LosKeeper/LosKeeper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
