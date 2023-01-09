@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loskeeper" alt="loskeeper" /></a> </p>
 
-- 🔭 I’m currently working on [Discord Calendar Bot](https://github.com/LosKeeper/discord-calendar-bot)
+- 🔭 I’m currently working on [A Subscript of Shell to MIPS32 Assembly Compiler](https://github.com/LosKeeper/SoS2MIPS)
 
 - 🌱 I’m currently learning **OS Programming, Network routing, ...**
 
