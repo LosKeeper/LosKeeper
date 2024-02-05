@@ -1,7 +1,7 @@
 <h1 align="center">I'm Thomas DUMOND</h1>
 <h3 align="center">A junior developer currently studying computer and network engineering</h3>
 
-- 🔭 I’m currently working on [a top secret audio streaming application](https://github.com/LosKeeper/spartacus_project)
+- 🔭 I’m currently working on [a high-fidelity streaming application](https://github.com/LosKeeper/skot_audio_streaming)
 
 - 🌱 I’m currently learning **OS Programming, Network routing, ...**
 
